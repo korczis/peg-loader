@@ -2,7 +2,7 @@ var PEG = require("peg");
 
 /*
  MIT License http://www.opensource.org/licenses/mit-license.php
- Author Tobias Koppers @sokra
+ Author Tomas Korcak <korczis@gmail.com>
  */
 module.exports = function(content) {
     this.cacheable && this.cacheable();
