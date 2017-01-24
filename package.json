@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/korczis/peg-loader#readme",
   "dependencies": {
-    "pegjs": "^0.9.0"
+    "pegjs": "^0.10.0"
   }
 }
